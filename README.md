@@ -19,3 +19,5 @@ This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for C
 [Reference Link](http://login2explore.com/jpdb/docs.html)
 
 # Some screenshots
+
+![Dashboard]()
