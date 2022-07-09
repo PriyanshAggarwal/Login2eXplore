@@ -21,3 +21,4 @@ This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for C
 # Some screenshots
 
 ![Dashboard](https://github.com/PriyanshAggarwal/Login2eXplore/blob/main/Form_Priyansh.png)
+![Dashboard](https://github.com/PriyanshAggarwal/Login2eXplore/blob/main/JDMB.png)
